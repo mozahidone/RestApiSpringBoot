@@ -1,3 +1,3 @@
 # RestApiSpringBoot
 
-# This is a basic REST API implementation
+# REST API for CRUD operation
